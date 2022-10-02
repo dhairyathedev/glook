@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codewithsnowbit/glook.git"
+    "url": "git+https://github.com/dhairyathedev/glook.git"
   },
   "bin": {
     "glook": "src/index.js"
@@ -18,12 +18,12 @@
     "search",
     "cli"
   ],
-  "author": "codewithsnowbit",
+  "author": "dhairyathedev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codewithsnowbit/glook/issues"
+    "url": "https://github.com/dhairyathedev/glook/issues"
   },
-  "homepage": "https://github.com/codewithsnowbit/glook#readme",
+  "homepage": "https://github.com/dhairyathedev/glook#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "open": "^8.4.0"
