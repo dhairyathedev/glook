@@ -1,6 +1,6 @@
 {
   "name": "glook",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Google Search from CLI",
   "main": "index.js",
   "scripts": {

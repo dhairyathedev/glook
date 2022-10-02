@@ -8,7 +8,7 @@ function space(){
 
 function main(){
 	// get all the arguments
-	const args = process.argv.slice(3).join(' ');
+	const args = process.argv.slice(2).join(' ');
 	space();
 	console.log(chalk.blue.bgBlack.bold((`Searching for "${args}" on Google`)));
 	space();
