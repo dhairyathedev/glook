@@ -1,5 +1,5 @@
 # Welcome to glook
-![Hero Image](https://user-images.githubusercontent.com/65452005/197197909-c19e45b7-c70e-4ee9-b071-85d33be982b8.png)
+![Hero Image](https://user-images.githubusercontent.com/65452005/197198089-7a3ae7ee-fb4e-438f-985a-ac9c9699c402.jpeg)
 Google Search directly from your CLI
 ---
 
