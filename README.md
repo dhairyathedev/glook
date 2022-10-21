@@ -1,4 +1,5 @@
 # Welcome to glook
+![Hero Image](https://glook.dhairyashah.dev/open-graph.png)
 Google Search directly from your CLI
 ---
 
