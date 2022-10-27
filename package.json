@@ -1,6 +1,6 @@
 {
   "name": "glook",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Google Search from CLI",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/dhairyathedev/glook/issues"
   },
-  "homepage": "https://github.com/dhairyathedev/glook#readme",
+  "homepage": "https://glook.dhairyashah.dev/",
   "dependencies": {
     "chalk": "^4.1.2",
     "open": "^8.4.0"
