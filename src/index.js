@@ -13,7 +13,7 @@ function searchPrompt() {
     input: process.stdin,
     output: process.stdout,
   });
-  readline.setPrompt(chalk.blue.bgBlack.bold(`What do you want to search?:  `));
+  readline.setPrompt(chalk.blue.bgBlack.bold(`What do you want to search?:`));
   readline.prompt();
   readline.on("line", function (search) {
     input.push(search);
